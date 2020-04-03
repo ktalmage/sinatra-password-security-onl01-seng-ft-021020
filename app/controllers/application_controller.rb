@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 require "./config/environment"
 require "./app/models/user"
 class ApplicationController < Sinatra::Base
@@ -70,7 +70,7 @@ class ApplicationController < Sinatra::Base
 	end
 
 end
-=======
+
 require "./config/environment"
 require "./app/models/user"
 class ApplicationController < Sinatra::Base
@@ -143,4 +143,4 @@ class ApplicationController < Sinatra::Base
 	end
 
 end
->>>>>>> c501121d07b8c83b1ce0392646c07a9e6cd9b0bd
+
